@@ -1,0 +1,13 @@
+name = "Create"
+filename = "create-1.20.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LNytGWDc/versions/mXfmc8qO/create-1.20.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "b97e02a8331c5f34c59e446f2c23ac554e133000fde6a13989f562db79fc8b2a309cd3ebbc3dc9cb85f5a684cc83749d12aa877a774c10f89a274a274df864ba"
+
+[update]
+[update.modrinth]
+mod-id = "LNytGWDc"
+version = "mXfmc8qO"

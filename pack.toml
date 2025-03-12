@@ -1,0 +1,13 @@
+name = "Less Than Compact 2"
+author = "Gabe Venberg"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a7d670574425b6dc9108b1c305a039e720bafee73e9f06eea95fffaa150f60e4"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
