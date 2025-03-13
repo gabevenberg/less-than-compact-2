@@ -61,6 +61,11 @@ hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
+file = "mods/constant-music.pw.toml"
+hash = "beab7ecc509cde5adbf7ffe75c9bc66d9cd34327c75d9a989ad6dbfecb8aaf47"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "0efa4e3e35594f62f04495aa345af52e4d7cc9a255f00481a1803d4c0e063223"
 metafile = true
@@ -116,6 +121,11 @@ hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
 metafile = true
 
 [[files]]
+file = "mods/fbp-renewed.pw.toml"
+hash = "67a7d56de04a37876501bca882276b7b7ff5fa84f27b0e6ecae59a70d65ffdf3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -123,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "6854094c8d71275ca69c0b2ea4cde8722bc4eca056d0dd1f27e630e7b2d19f88"
+metafile = true
+
+[[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "48f024992f7d4b734688ae4102b3660a090c5ae3f871e831533f4e8b6e8a01a8"
 metafile = true
 
 [[files]]
