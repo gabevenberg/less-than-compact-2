@@ -156,26 +156,6 @@ hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "d034f2d4343e401dcbeb6f6d0c56ee76439efa2fd66f96d4d34e4227a7081688"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "da42334eb9935c399dd0c2efc41c15bcc605bae2923c66fa8f29dd8c0e3677b5"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.pw.toml"
-hash = "d73164dffb0fe4e706d18b8c8ca07d8368c8c4b535e326e9755b7e84f1eea6df"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "a2cf062cfcdd43b5ec301b12420f456545f372ddd0932bf1883fbaab4a7ddf89"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
 metafile = true
