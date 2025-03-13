@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/botania-client.toml"
+hash = "5c32fa402e2cb1997e8270a53bb4083ef8039db3f39ef0766a343d5f48d29308"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "d4fb2cb59b6cc0156015fdd2bbbf258ad402db69099bb9bd863048d703a843ed"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "c6981bdd92b5db10ab2f2891d76e7071b06f54c64a9ab1af97849147cb6b9de8"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "7ed9959414e5be92c2f865c7cdfb82559abecd2595d481c110d2258bd786dea9"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "8e9354210ed27104f497a6e5ee175cfec0f2f5ad1cbcdf610650e4b1561606e5"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "508fdde4fd33d07f09b4c196f6c7d958722e48cf07702092ba7d2dcb83d28bba"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "e648a83707d4ddfedd27a6459c32853e4565f19eaa388246484857c053444930"
 metafile = true
@@ -91,6 +127,11 @@ hash = "b3321eba996f9651a3f0b8f4ffbc936f63ebc48856f6474967ee41af869c87e7"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f68c4aa11159e9eefb3e1df5d67855fbc382b997bbce7e35e142039207245c83"
 metafile = true
@@ -131,11 +172,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "6854094c8d71275ca69c0b2ea4cde8722bc4eca056d0dd1f27e630e7b2d19f88"
-metafile = true
-
-[[files]]
 file = "mods/flat-bedrock.pw.toml"
 hash = "48f024992f7d4b734688ae4102b3660a090c5ae3f871e831533f4e8b6e8a01a8"
 metafile = true
@@ -148,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
 metafile = true
 
 [[files]]
@@ -186,6 +227,11 @@ hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
 metafile = true
 
 [[files]]
+file = "mods/more-red.pw.toml"
+hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -193,11 +239,6 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "8007e5faf3b211e007616010a4bf5d50ad279f45838e1b8609d60df2e6166f6c"
 metafile = true
 
 [[files]]
@@ -241,13 +282,13 @@ hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+file = "mods/visual-workbench.pw.toml"
+hash = "23b611c902298a16170f27a4e93f8f649103e9f694463c3e075d43898e5b6036"
 metafile = true
 
 [[files]]
-file = "mods/terraphilic.pw.toml"
-hash = "24ad43909595ac26f2c2c49d8528edf5c0d35655e20c24b1981221e441c0e91b"
+file = "mods/wavey-capes.pw.toml"
+hash = "486d2a2a83579c2b3c74b0d8d4b23a6824c43e626b8f54142a169ef3c7715233"
 metafile = true
 
 [[files]]

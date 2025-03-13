@@ -1,4 +1,4 @@
-name = "Less Than Compact 2"
+name = "Less than Compact 2"
 author = "Gabe Venberg"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dfd3f4d55111e5ce3488d879f778b29432f2674f661bed6281ce96a43b86e6c1"
+hash = "60a2ad7cf7de3e338515ad9b920d26fb629cd831592aab23149dc93b6cd751ae"
 
 [versions]
 forge = "47.4.0"
