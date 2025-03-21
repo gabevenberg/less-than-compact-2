@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ProjectRed.cfg"
+hash = "e6c85f15f4de4d16ae45a6dd660a4e6d6647420de6622fd0dcd940964c8bb8af"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "5c32fa402e2cb1997e8270a53bb4083ef8039db3f39ef0766a343d5f48d29308"
 
@@ -92,6 +96,11 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b4ef8e1e01e2215bb293087c80a81f89428bf309d049f8bc9cdd6b8c8037c79b"
 metafile = true
@@ -107,8 +116,18 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
+metafile = true
+
+[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -302,6 +321,31 @@ hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "4d59e746d59786bdf7431fdb5cd2e7c2c36f079c693b3bed54476681ae3206bf"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "bd2f19bb87df2bba7463db458fb21e742256593499ba10afb9073962daa21e52"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "b0a4ca3cdbe9ab4053ef54ce4f5d7e469f5a497a604cc77058fbf696cd046eab"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "e6c5f38520d769480f93166813079420a497c36f3130524cc48e3280d3d81d65"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a764137af8157a15bce180d539c4a7e9e918aaff0e739dc8bb40aeb805769d5d"
 metafile = true
@@ -349,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "d8a74beccd9d17c415b012c6470f9cbe51dc4aa92c0110059f007d63754762e6"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "b41bc8b9b7197abf700f0ee5c2cba94a129e3cdaa5b4b46ebebb383722c323b5"
 metafile = true
 
 [[files]]
@@ -439,4 +488,14 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "10159218a704c3ce1ffd89c9ba93e5f0e439783334f8746b7c44a0d661819a26"
+metafile = true
+
+[[files]]
+file = "resourcepacks/a-bucket-of-content.pw.toml"
+hash = "b5909ae2f0ae5b63129c2a0f352b46b80d796745d6d26a8cab0caf777c254532"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "a8834e7aa0c6fea1615c05e1d43f84540ff0b1e2282c2cea93261baee7f9460f"
 metafile = true
