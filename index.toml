@@ -91,6 +91,11 @@ hash = "c7bdec4b71960d375ae66cd02bf550531d386aa58c207cf39b5a26d5d3574f09"
 metafile = true
 
 [[files]]
+file = "mods/botaniatubes.pw.toml"
+hash = "be9e116b115fe327043e6c6f8381aa44829fad5e20bda0a895fe563574c9c0bd"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
