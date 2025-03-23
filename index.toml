@@ -17,6 +17,28 @@ file = "config/jade/plugins.json"
 hash = "c6981bdd92b5db10ab2f2891d76e7071b06f54c64a9ab1af97849147cb6b9de8"
 
 [[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "e720da5926e968c2a26bb1348d5d9c23bc26093818b8cdd16d776bccc816e3bb"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/a-bucket-of-content.pw.toml"
+hash = "b5909ae2f0ae5b63129c2a0f352b46b80d796745d6d26a8cab0caf777c254532"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/icon-xaeros.pw.toml"
+hash = "a8834e7aa0c6fea1615c05e1d43f84540ff0b1e2282c2cea93261baee7f9460f"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "7ed9959414e5be92c2f865c7cdfb82559abecd2595d481c110d2258bd786dea9"
 
@@ -498,14 +520,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "10159218a704c3ce1ffd89c9ba93e5f0e439783334f8746b7c44a0d661819a26"
-metafile = true
-
-[[files]]
-file = "resourcepacks/a-bucket-of-content.pw.toml"
-hash = "b5909ae2f0ae5b63129c2a0f352b46b80d796745d6d26a8cab0caf777c254532"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icon-xaeros.pw.toml"
-hash = "a8834e7aa0c6fea1615c05e1d43f84540ff0b1e2282c2cea93261baee7f9460f"
 metafile = true
