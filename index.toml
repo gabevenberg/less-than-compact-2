@@ -361,6 +361,11 @@ hash = "d050a0ecbf46b373d1a99f0fcb9ff08da9390edd2958305352be88021a70b824"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "ccd0eaace91d511375a1eeb58bd045dfe3c951d6f3d748284eced2b6614168bd"
 metafile = true
