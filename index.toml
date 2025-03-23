@@ -248,6 +248,11 @@ hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
 metafile = true
 
 [[files]]
+file = "mods/hammer-enchants.pw.toml"
+hash = "f555c51b53e495c171e675e2cbc2036ea1762e587a9a2c36003227484fe888cd"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
 metafile = true
@@ -318,11 +323,6 @@ hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
-file = "mods/mutil.pw.toml"
-hash = "98e4fe14111012678e1aa92919307a67f49eca02ae7c48918e1c1ec791da57cd"
-metafile = true
-
-[[files]]
 file = "mods/nerb.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
@@ -388,16 +388,6 @@ hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
 metafile = true
 
 [[files]]
-file = "mods/silent-gear.pw.toml"
-hash = "ccd0eaace91d511375a1eeb58bd045dfe3c951d6f3d748284eced2b6614168bd"
-metafile = true
-
-[[files]]
-file = "mods/silent-lib.pw.toml"
-hash = "d8534ac5dab1f2bef206331abd2d2a0bb504b68c10fcd71aefd49239eab5f7e0"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
 metafile = true
@@ -420,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
-metafile = true
-
-[[files]]
-file = "mods/tetra.pw.toml"
-hash = "d8a74beccd9d17c415b012c6470f9cbe51dc4aa92c0110059f007d63754762e6"
 metafile = true
 
 [[files]]

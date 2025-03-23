@@ -1,0 +1,13 @@
+name = "Hammer Enchants"
+filename = "output.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QBrIQ9pr/versions/HPPJ5fPM/output.jar"
+hash-format = "sha512"
+hash = "ce44e34d8dfbcb7417d304f28a66bbd6f019acb921cc5565106ccfc050f13a4cdd70104e20265df5944b25d32579e04c853c70c172d0eb2677f242baffd37a3b"
+
+[update]
+[update.modrinth]
+mod-id = "QBrIQ9pr"
+version = "HPPJ5fPM"
