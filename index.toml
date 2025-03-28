@@ -413,11 +413,6 @@ hash = "b49acca4cdb9a2af435a558088478819b2f44c2a1ae212a0aad686f2ac8dd7a7"
 metafile = true
 
 [[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "b41bc8b9b7197abf700f0ee5c2cba94a129e3cdaa5b4b46ebebb383722c323b5"
 metafile = true
