@@ -64,7 +64,7 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "e648a83707d4ddfedd27a6459c32853e4565f19eaa388246484857c053444930"
+hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "570f5cf0c452ef6a5bb9e7363c7aaf5575c571f71eec5e3392b5e0d4bcf9bf34"
+hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
 metafile = true
 
 [[files]]
@@ -153,11 +153,6 @@ hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
-metafile = true
-
-[[files]]
 file = "mods/constant-music.pw.toml"
 hash = "beab7ecc509cde5adbf7ffe75c9bc66d9cd34327c75d9a989ad6dbfecb8aaf47"
 metafile = true
@@ -174,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "74486cd0b25b3c6bef4cdca60187d0f79109b8cf9b067be978887b28c315222e"
+hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
@@ -184,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "b3321eba996f9651a3f0b8f4ffbc936f63ebc48856f6474967ee41af869c87e7"
+hash = "40f2f48ea96049a8c3895109ba7edd9c854e4b64ff185d33fa736eb1ed9859a3"
 metafile = true
 
 [[files]]
@@ -219,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
+hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
@@ -244,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+hash = "39801423e2c2323435333a795e038f7d7eb7c19bde86d79c6bfce47dd638aa1e"
 metafile = true
 
 [[files]]
@@ -309,17 +304,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f64bfa708b758c3d5835ff6865655af49fc49723535c6357c473179298b11e00"
+hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
 metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
-metafile = true
-
-[[files]]
-file = "mods/more-red.pw.toml"
-hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
 metafile = true
 
 [[files]]
@@ -359,22 +349,22 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "4d59e746d59786bdf7431fdb5cd2e7c2c36f079c693b3bed54476681ae3206bf"
+hash = "432eff1b4c0b9247f4b63d9e6607381f9fed7ce85f171584b28b9b3eac95cf5c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "bd2f19bb87df2bba7463db458fb21e742256593499ba10afb9073962daa21e52"
+hash = "a5259485904f20fdc86579f476eccda5d700e5aaf0469445f22ae6e678e71636"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "b0a4ca3cdbe9ab4053ef54ce4f5d7e469f5a497a604cc77058fbf696cd046eab"
+hash = "ca9551217e18083dafffb5b179194bbe7e126f303f49fe57880769732fbe968d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "e6c5f38520d769480f93166813079420a497c36f3130524cc48e3280d3d81d65"
+hash = "b207a06c0d2c44584524129733793f21dcefdf2660eba7e8e1c8dfeb549e85d1"
 metafile = true
 
 [[files]]
@@ -394,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
+hash = "d247fe0ad5c3c74b3fc7f29db3b9f9d6897cac0ed2da10ef9419a26878861c7b"
 metafile = true
 
 [[files]]
@@ -404,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b73a4541a27e80fdf94d7e91f584c78d1882b4963726fda96b1ae99677122318"
+hash = "2422c6246b106206e7242c0c905c7542bf324258fcce082102d229eb7cbfdea6"
 metafile = true
 
 [[files]]
@@ -429,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "486d2a2a83579c2b3c74b0d8d4b23a6824c43e626b8f54142a169ef3c7715233"
+hash = "0c08142ab20b91366710d36df545f4195c3cfd19c85ccaf7282c039d65302025"
 metafile = true
 
 [[files]]
