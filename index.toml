@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "7ed9959414e5be92c2f865c7cdfb82559abecd2595d481c110d2258bd786dea9"
+hash = "253d9303d53261a2bc3d0487a6180d363c0c94bea9e63d6126f65c72b07c28eb"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -298,6 +298,16 @@ hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
 metafile = true
@@ -363,6 +373,11 @@ hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "2a3a4d1558f48a49746b266248676f7d28b7b8b9d45f36645e41a8806028dce5"
+metafile = true
+
+[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "432eff1b4c0b9247f4b63d9e6607381f9fed7ce85f171584b28b9b3eac95cf5c"
 metafile = true
@@ -390,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d050a0ecbf46b373d1a99f0fcb9ff08da9390edd2958305352be88021a70b824"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
