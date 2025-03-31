@@ -1,13 +1,13 @@
 name = "Geophilic"
-filename = "Geophilic Snap 3.4-a f15-71.jar"
+filename = "Geophilic Snap 3.4-b f15-71.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hl5OLM95/versions/7dpEShX0/Geophilic%20Snap%203.4-a%20f15-71.jar"
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/JdDHiPp9/Geophilic%20Snap%203.4-b%20f15-71.jar"
 hash-format = "sha512"
-hash = "e760b4140f28aae0db3202af77e5f8dd14da03098f6aca82f30e4072104e2979ba328727a55d661edfa4a168e1b563c5d81ae716aef0d3b0ef3785ee2a07057d"
+hash = "31d45ee5c29cd80fbb89696e56deef6da33762b5b84237ae9cb3765fde6fd46d6d55781bfd5fb2cfb31e54c266770b7aac52130616f20c9ff8b0123d931a7d24"
 
 [update]
 [update.modrinth]
 mod-id = "hl5OLM95"
-version = "7dpEShX0"
+version = "JdDHiPp9"
