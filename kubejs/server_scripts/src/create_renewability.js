@@ -1,0 +1,10 @@
+ServerEvents.recipes(event => {
+    event.remove({output:'minecraft:soul_soil'})
+    // event.recipes.create.haunting('minecraft:netherrack', 'minecraft:basalt')
+    event.recipes.create.haunting('minecraft:soul_soil', 'minecraft:dirt')
+    event.recipes.create.mixing('minecraft:dirt', ['minecraft:clay_ball', 'minecraft:sand', 'minecraft:bone_meal', Fluid.water(10)])
+    event.recipes.create.compacting('minecraft:moss_block', Array(9).fill('minecraft:grass'))
+    event.recipes.create.compacting('minecraft:calcite', ['minecraft:bone_block', Fluid.lava(15)])
+    event.recipes.create.compacting('minecraft:tuff', ['create:powdered_obsidian', 'minecraft:gravel', Fluid.lava(15)])
+    event.recipes.create.compacting('minecraft:amethyst_block', ['minecraft:quartz_block', 'minecraft:iron_nugget']).heated()
+})

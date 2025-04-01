@@ -1,11 +1,10 @@
-// priority: 1
-
 StartupEvents.init(event => {
     global.removedItems = global.removedItems ?? []
     global.removedItems.push(
         'projectred_core:electrotine_ingot',
         'projectred_core:copper_coil',
         'projectred_core:electrotine_silicon_comp',
+        'projectred_core:electrotine_silicon',
         'projectred_core:iron_coil',
         'projectred_core:red_iron_comp',
         'projectred_core:electrotine_dust',
