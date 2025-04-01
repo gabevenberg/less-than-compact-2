@@ -5,3 +5,6 @@
 /README.md
 *.mrpack
 *.zip
+
+# exclude autocomple probejs files.
+.probe
