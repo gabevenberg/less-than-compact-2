@@ -63,6 +63,54 @@ file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/client_scripts/src/remove_items.js"
+hash = "30489517777f2c907262916c95570dcc2893166c666fcc1a3d1c1e5254448b62"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "773e271d3451c8311fbaebb5daca91675ecd34994461006ef52c4b6857850dd4"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "98a61c7b5be0f7a864532ee81c116e636835e37de6b7e641b01188c9c98a599e"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "f473b0cbefb772798d0c561fb39b7e0e8b8082aa76595632e11521c128c52859"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/src/create_renewability.js"
+hash = "7a1a7e3cf878cbcacbc69a95e5c43a047122ddb65a8a5bfcb539ae4a6b8e5570"
+
+[[files]]
+file = "kubejs/server_scripts/src/project_red.js"
+hash = "1df183d322719d028aa00d34fa713a8bbd2fb0924dd0c95a361f29247059fe21"
+
+[[files]]
+file = "kubejs/server_scripts/src/remove_items.js"
+hash = "462b2909716e3292d086590d9bf9831bee9399c66213b28ce25458dfbb835ede"
+
+[[files]]
+file = "kubejs/server_scripts/src/uncraftable.js"
+hash = "aa26c5aa09239b704732e7d94a934ce37473c7cdc819e3a293eb5991ff43672c"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "kubejs/startup_scripts/src/project_red.js"
+hash = "927de8aad322785f9c6baab878402c4e270b40e351e752eedd6a675f83b7cb32"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true

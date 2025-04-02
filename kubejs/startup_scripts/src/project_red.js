@@ -26,5 +26,9 @@ StartupEvents.init(event => {
         'projectred_core:woven_cloth',
         'projectred_core:draw_plate',
         'projectred_core:ruby',
+        'cb_microblock:stone_rod',
+        'cb_microblock:iron_saw',
+        'cb_microblock:stone_saw',
+        'cb_microblock:diamond_saw',
     )
 })
