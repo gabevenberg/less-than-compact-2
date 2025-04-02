@@ -13,6 +13,14 @@ file = "config/easyanvils-server.toml"
 hash = "d4fb2cb59b6cc0156015fdd2bbbf258ad402db69099bb9bd863048d703a843ed"
 
 [[files]]
+file = "config/easymagic-server.toml"
+hash = "ee3004a96095b6ad2f49c263efdf8119d631a57f136e6f2449b2f24a4b4da750"
+
+[[files]]
+file = "config/enchantinginfuser-server.toml"
+hash = "4b0ee3a579c58d0f3600f877fc7ca664c56ae8acdc51b2ed07ccc17ab1e4a236"
+
+[[files]]
 file = "config/jade/plugins.json"
 hash = "c6981bdd92b5db10ab2f2891d76e7071b06f54c64a9ab1af97849147cb6b9de8"
 
@@ -40,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "253d9303d53261a2bc3d0487a6180d363c0c94bea9e63d6126f65c72b07c28eb"
+hash = "6c6595106e565d0c2dcd667915cfb494968fb6868fdc9d4eb036948bf247ba6d"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -87,8 +95,12 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
+file = "kubejs/server_scripts/src/botania.js"
+hash = "c15da89daf2a1a147ebfe53453343881d81cc1b57519bd8acd0f55181a10c829"
+
+[[files]]
 file = "kubejs/server_scripts/src/create_renewability.js"
-hash = "7a1a7e3cf878cbcacbc69a95e5c43a047122ddb65a8a5bfcb539ae4a6b8e5570"
+hash = "1b895ba05d3c10d3f9b007ea091220d19d6bba47726a076bfac7fb8bdddde2d4"
 
 [[files]]
 file = "kubejs/server_scripts/src/project_red.js"
@@ -100,7 +112,7 @@ hash = "462b2909716e3292d086590d9bf9831bee9399c66213b28ce25458dfbb835ede"
 
 [[files]]
 file = "kubejs/server_scripts/src/uncraftable.js"
-hash = "aa26c5aa09239b704732e7d94a934ce37473c7cdc819e3a293eb5991ff43672c"
+hash = "f5d39b502033bbf26f5f17109ef056a8f2c02cc1f5cd4a364d5a6d7eaa13216c"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -241,6 +253,11 @@ hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
+file = "mods/disenchantingforge.pw.toml"
+hash = "7f5d118219135a4a700e5b2527a2015b9c8382e97f88e51699db75411e626e56"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -266,23 +283,8 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
-file = "mods/enchanting-infuser.pw.toml"
-hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-reveal.pw.toml"
-hash = "d09ffb2bb70178da4599ad78dfc570be9d1ccdffc1e9670fd5f067a40ed267fc"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-transfer.pw.toml"
-hash = "49ffce86d08f184f73e898f061dd1b2635421f49d3cb66bbdf22371eebe61da3"
 metafile = true
 
 [[files]]

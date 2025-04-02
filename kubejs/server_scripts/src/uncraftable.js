@@ -1,18 +1,4 @@
 ServerEvents.recipes(event => {
-    event.shaped(
-        'minecraft:totem_of_undying',
-        [
-            'eae',
-            'gsg',
-            ' g '
-        ],
-        {
-            e: 'minecraft:emerald',
-            a: 'minecraft:enchanted_golden_apple',
-            g: 'minecraft:gold_ingot',
-            s: 'minecraft:nether_star'
-        }
-    )
     event.shapeless(
         'minecraft:crying_obsidian',
         [

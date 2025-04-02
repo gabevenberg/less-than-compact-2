@@ -1,7 +1,7 @@
 ServerEvents.recipes(event => {
     event.recipes.create.crushing([Item.of('create:copper_nugget').withChance(0.1), Item.of('create:zinc_nugget').withChance(0.1)], 'minecraft:blackstone')
     event.recipes.create.compacting('minecraft:amethyst_block', ['minecraft:quartz_block', 'minecraft:iron_nugget']).heated()
-    event.recipes.create.compacting('minecraft:calcite', ['minecraft:bone_block', Fluid.lava(15)])
+    event.recipes.create.compacting('create:limestone', ['minecraft:bone_block', Fluid.water(1000)]).heated()
     event.recipes.create.compacting('minecraft:deepslate', ['minecraft:cobblestone', Fluid.lava(50)])
     event.recipes.create.compacting('minecraft:gilded_blackstone', ['minecraft:blackstone', 'minecraft:gold_ingot', 'minecraft:gold_ingot']).heated()
     event.recipes.create.compacting('minecraft:moss_block', Array(9).fill('minecraft:grass'))
@@ -12,4 +12,5 @@ ServerEvents.recipes(event => {
     event.recipes.create.haunting('minecraft:end_stone', 'minecraft:polished_deepslate')
     event.recipes.create.mixing('minecraft:dirt', ['minecraft:clay_ball', 'minecraft:sand', 'minecraft:bone_meal', Fluid.water(10)])
     event.recipes.create.filling('minecraft:enchanted_golden_apple', ['minecraft:golden_apple', Fluid.of('create_enchantment_industry:experience', 5000)])
+    event.recipes.create.compacting('minecraft:calcite', ['create:limestone', Fluid.lava(15)])
 })
