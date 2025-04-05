@@ -71,6 +71,10 @@ file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "5d83452900449b90017944f0516220ce3941949adcd82fa09b2d54dc39d0048a"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
@@ -101,6 +105,10 @@ hash = "c15da89daf2a1a147ebfe53453343881d81cc1b57519bd8acd0f55181a10c829"
 [[files]]
 file = "kubejs/server_scripts/src/create_renewability.js"
 hash = "1b895ba05d3c10d3f9b007ea091220d19d6bba47726a076bfac7fb8bdddde2d4"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot.js"
+hash = "d4007b44b56b35c272b2751d9c7e91aa1aae143ff672376d960e6a7f193b2de3"
 
 [[files]]
 file = "kubejs/server_scripts/src/project_red.js"
@@ -390,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "2e252ae669d1064f1be162272547fac464803846b1073fd3825886d3a59f4140"
 metafile = true
 
 [[files]]
