@@ -6,7 +6,7 @@ hash = "e6c85f15f4de4d16ae45a6dd660a4e6d6647420de6622fd0dcd940964c8bb8af"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "03b66b44c74a6d2bd7003d8150b86f266e448c99cc5d0e2671c36de325629a30"
+hash = "dbe30fae26c98f769e719a66e09e405db7da853d0f8b0f5eab41650fc28acb5c"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
@@ -108,7 +108,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/apotheosis.js"
-hash = "e90a8fc99ca3c45a5bc1c3acd1b5af980468260bf7258035ddf1355f5612a963"
+hash = "230baa5dee76ba29576ab072dc22389e2b11943d577d84da4df4fab57dd7a25b"
 
 [[files]]
 file = "kubejs/server_scripts/src/botania.js"
@@ -117,6 +117,10 @@ hash = "c15da89daf2a1a147ebfe53453343881d81cc1b57519bd8acd0f55181a10c829"
 [[files]]
 file = "kubejs/server_scripts/src/create_renewability.js"
 hash = "1b895ba05d3c10d3f9b007ea091220d19d6bba47726a076bfac7fb8bdddde2d4"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot.js"
+hash = "d4007b44b56b35c272b2751d9c7e91aa1aae143ff672376d960e6a7f193b2de3"
 
 [[files]]
 file = "kubejs/server_scripts/src/project_red.js"
@@ -128,7 +132,7 @@ hash = "462b2909716e3292d086590d9bf9831bee9399c66213b28ce25458dfbb835ede"
 
 [[files]]
 file = "kubejs/server_scripts/src/uncraftable.js"
-hash = "1fa2266d5cc906f594f15304eb26c5e161e1715e2673706195f4cff1e7d2f0cc"
+hash = "e244e11c9a0de2acb357562e69c998307fe3d73bdeb08b14438d06fbf4867d72"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -289,6 +293,11 @@ hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -411,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "2e252ae669d1064f1be162272547fac464803846b1073fd3825886d3a59f4140"
 metafile = true
 
 [[files]]
