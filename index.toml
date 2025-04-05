@@ -5,6 +5,14 @@ file = "config/ProjectRed.cfg"
 hash = "e6c85f15f4de4d16ae45a6dd660a4e6d6647420de6622fd0dcd940964c8bb8af"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "03b66b44c74a6d2bd7003d8150b86f266e448c99cc5d0e2671c36de325629a30"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "340704766956bc1913c63df95f14075f03247793013f7a15e88a7e196b431a86"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "5c32fa402e2cb1997e8270a53bb4083ef8039db3f39ef0766a343d5f48d29308"
 
@@ -71,6 +79,10 @@ file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "5d83452900449b90017944f0516220ce3941949adcd82fa09b2d54dc39d0048a"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
@@ -95,6 +107,10 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
+file = "kubejs/server_scripts/src/apotheosis.js"
+hash = "e90a8fc99ca3c45a5bc1c3acd1b5af980468260bf7258035ddf1355f5612a963"
+
+[[files]]
 file = "kubejs/server_scripts/src/botania.js"
 hash = "c15da89daf2a1a147ebfe53453343881d81cc1b57519bd8acd0f55181a10c829"
 
@@ -112,7 +128,7 @@ hash = "462b2909716e3292d086590d9bf9831bee9399c66213b28ce25458dfbb835ede"
 
 [[files]]
 file = "kubejs/server_scripts/src/uncraftable.js"
-hash = "f5d39b502033bbf26f5f17109ef056a8f2c02cc1f5cd4a364d5a6d7eaa13216c"
+hash = "1fa2266d5cc906f594f15304eb26c5e161e1715e2673706195f4cff1e7d2f0cc"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -135,6 +151,16 @@ metafile = true
 [[files]]
 file = "mods/almanac.pw.toml"
 hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "4fc425234d70f254e2b420d7c01d33c4c1666366c64909114c943a1b15e436d0"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "7ec91c6a496a122e84c4f0e7737175bf869dda8e046a208ef6e13830ca731378"
 metafile = true
 
 [[files]]
@@ -260,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
-metafile = true
-
-[[files]]
-file = "mods/disenchantingforge.pw.toml"
-hash = "7f5d118219135a4a700e5b2527a2015b9c8382e97f88e51699db75411e626e56"
 metafile = true
 
 [[files]]
@@ -439,12 +460,17 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]

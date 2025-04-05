@@ -6,7 +6,13 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
+hash = "d856128e57f3ae4085f1b3ac5a2846c77d8aaeeb73c5d925569ce8f5cbcafd2e"
+||||||| parent of 7d9ed41 (# This is a combination of 2 commits.)
 hash = "7fd3da004484947f45cbe5a4661628a8edb82fcdddda3273b1d14330d8f7315c"
+=======
+hash = "520177d5a2eb6f37c604342510bd0d5e5cff46f62d84e3f239c8dcf0ff138176"
+>>>>>>> 7d9ed41 (# This is a combination of 2 commits.)
 
 [versions]
 forge = "47.4.0"

@@ -7,18 +7,6 @@ ServerEvents.recipes(event => {
         ]
     )
     event.shaped(
-        'minecraft:trident',
-        [
-            ' ss',
-            ' is',
-            'i  ',
-        ],
-        {
-            s: 'minecraft:prismarine_shard',
-            i: 'minecraft:iron_ingot',
-        }
-    )
-    event.shaped(
         'minecraft:saddle',
         [
             'sls',
