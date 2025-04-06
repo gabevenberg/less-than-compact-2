@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "b7feeedd6ecb3955d415323929e66b1ea4ae0141755a60a1910f84675668240e"
+hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
+hash = "f13e328561f1ee2eaf77fedcd5fcc253fb9b8b128facea35427e89bd5d95e357"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a764137af8157a15bce180d539c4a7e9e918aaff0e739dc8bb40aeb805769d5d"
+hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
@@ -512,12 +512,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1c7e43894ce92f3e7dac2e0790808e264bac9b3448963b712021f26ab877bc5f"
+hash = "8015cafe953cf2cc37c4ab33bd74a79e4c880634a23a3e80da0a846dd154c52e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "348e35b2d325032950d3a22d9296c9d3b17435f58d1f987285dc9c1e4dd6a882"
+hash = "7c5e806df2496dcb2969b22715a71b8a41f66ab3c1772af3e5db40b18ec82fc4"
 metafile = true
 
 [[files]]
