@@ -6,7 +6,7 @@ hash = "e6c85f15f4de4d16ae45a6dd660a4e6d6647420de6622fd0dcd940964c8bb8af"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "dbe30fae26c98f769e719a66e09e405db7da853d0f8b0f5eab41650fc28acb5c"
+hash = "5e9f9f1022e1707ed6b1930508384572fe42c659e331bfa8fe2e84f6aa2fb246"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
