@@ -17,10 +17,6 @@ file = "config/easymagic-server.toml"
 hash = "ee3004a96095b6ad2f49c263efdf8119d631a57f136e6f2449b2f24a4b4da750"
 
 [[files]]
-file = "config/enchantinginfuser-server.toml"
-hash = "4b0ee3a579c58d0f3600f877fc7ca664c56ae8acdc51b2ed07ccc17ab1e4a236"
-
-[[files]]
 file = "config/jade/plugins.json"
 hash = "c6981bdd92b5db10ab2f2891d76e7071b06f54c64a9ab1af97849147cb6b9de8"
 
