@@ -9,6 +9,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.filling('minecraft:lapis_lazuli', ['minecraft:blue_dye', Fluid.of('create_enchantment_industry:experience', 250)])
     event.recipes.create.filling('minecraft:sponge', ['#minecraft:wool', Fluid.of('create:potion', 250, { Potion: 'minecraft:water_breathing', Bottle: 'REGULAR' })])
     event.recipes.create.haunting('minecraft:netherrack', 'minecraft:basalt')
+    event.recipes.create.haunting('minecraft:coal', 'minecraft:charcoal')
     event.recipes.create.haunting('minecraft:end_stone', 'minecraft:polished_deepslate')
     event.recipes.create.mixing('minecraft:dirt', ['minecraft:clay_ball', 'minecraft:sand', 'minecraft:bone_meal', Fluid.water(10)])
     event.recipes.create.filling('minecraft:enchanted_golden_apple', ['minecraft:golden_apple', Fluid.of('create_enchantment_industry:experience', 5000)])
