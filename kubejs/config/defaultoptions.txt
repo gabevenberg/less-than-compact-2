@@ -1,0 +1,17 @@
+key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
+key_key.carry.desc:key.keyboard.tab
+key_key.fbp.toggle_mod:key.keyboard.unknown
+key_key.fbp.toggle_animations:key.keyboard.unknown
+key_key.fbp.open_settings:key.keyboard.unknown
+key_key.fbp.freeze_particles:key.keyboard.unknown
+key_key.fbp.kill_particles:key.keyboard.unknown
+key_key.fbp.add_to_blacklist:key.keyboard.unknown
+key_key.fbp.reload_config:key.keyboard.unknown
+key_key.curios.open.desc:key.keyboard.grave.accent
+key_key.travelersbackpack.cycle_tool:key.keyboard.h
+key_key.travelersbackpack.toggle_tank:key.keyboard.n
+key_gui.xaero_new_waypoint:key.keyboard.keypad.equal
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+realmsNotifications:false
+toggleSprint:true
+
