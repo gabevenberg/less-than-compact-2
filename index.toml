@@ -88,7 +88,7 @@ hash = "98a61c7b5be0f7a864532ee81c116e636835e37de6b7e641b01188c9c98a599e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "f83cb0a57d0ee9954d9453944cb2c9843d849bd77880148ce2d2f25bf0065866"
+hash = "ccb3834816419d6c606bf5d8e05862ff3880b317b2f507ee9ac565bef06ebc62"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
@@ -104,7 +104,7 @@ hash = "c15da89daf2a1a147ebfe53453343881d81cc1b57519bd8acd0f55181a10c829"
 
 [[files]]
 file = "kubejs/server_scripts/src/create_renewability.js"
-hash = "1c0db6b71c327eaed9bace0316690c0f57794cb2601fb616c301c4efb5469161"
+hash = "de7cdde81a5083bdbdb5825213999215eccac2514670fde9327548f1ef88f504"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot.js"
@@ -528,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "b49acca4cdb9a2af435a558088478819b2f44c2a1ae212a0aad686f2ac8dd7a7"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "405b829fb019416203cc26adc32ad5fbe4c6af76661377b2b676050801cca18a"
 metafile = true
 
 [[files]]
