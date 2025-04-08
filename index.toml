@@ -21,14 +21,6 @@ file = "config/botania-client.toml"
 hash = "5c32fa402e2cb1997e8270a53bb4083ef8039db3f39ef0766a343d5f48d29308"
 
 [[files]]
-file = "config/easyanvils-server.toml"
-hash = "d4fb2cb59b6cc0156015fdd2bbbf258ad402db69099bb9bd863048d703a843ed"
-
-[[files]]
-file = "config/easymagic-server.toml"
-hash = "ee3004a96095b6ad2f49c263efdf8119d631a57f136e6f2449b2f24a4b4da750"
-
-[[files]]
 file = "config/jade/plugins.json"
 hash = "c6981bdd92b5db10ab2f2891d76e7071b06f54c64a9ab1af97849147cb6b9de8"
 
@@ -100,7 +92,7 @@ hash = "98a61c7b5be0f7a864532ee81c116e636835e37de6b7e641b01188c9c98a599e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "ccb3834816419d6c606bf5d8e05862ff3880b317b2f507ee9ac565bef06ebc62"
+hash = "1f0ac2b7c902c189dc03a13b02a38e4af3317503f04d66ef6821678e6698a269"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
@@ -145,6 +137,10 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 [[files]]
 file = "kubejs/startup_scripts/src/project_red.js"
 hash = "927de8aad322785f9c6baab878402c4e270b40e351e752eedd6a675f83b7cb32"
+
+[[files]]
+file = "kubejs/startup_scripts/src/sophisticated-backpacs.js"
+hash = "9105e737aa96227deee1fec993a93586c0ee9fa52f63f23bbd841fac5ca760a2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -299,16 +295,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
-metafile = true
-
-[[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
-metafile = true
-
-[[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
 metafile = true
 
 [[files]]
@@ -549,11 +535,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "7c5e806df2496dcb2969b22715a71b8a41f66ab3c1772af3e5db40b18ec82fc4"
-metafile = true
-
-[[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "b49acca4cdb9a2af435a558088478819b2f44c2a1ae212a0aad686f2ac8dd7a7"
 metafile = true
 
 [[files]]
