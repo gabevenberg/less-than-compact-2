@@ -1,4 +1,5 @@
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.v
 key_key.carry.desc:key.keyboard.tab
 key_key.fbp.toggle_mod:key.keyboard.unknown
 key_key.fbp.toggle_animations:key.keyboard.unknown
