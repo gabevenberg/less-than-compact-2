@@ -353,6 +353,11 @@ hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "8b2166e4981dbf5c11bce86917f68bf500ce5132ed8425936846e99e4d11c373"
+metafile = true
+
+[[files]]
 file = "mods/hammer-enchants.pw.toml"
 hash = "f555c51b53e495c171e675e2cbc2036ea1762e587a9a2c36003227484fe888cd"
 metafile = true
