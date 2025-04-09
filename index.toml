@@ -75,6 +75,10 @@ file = "defaultconfigs/gravestone-server.toml"
 hash = "5d83452900449b90017944f0516220ce3941949adcd82fa09b2d54dc39d0048a"
 
 [[files]]
+file = "defaultconfigs/travelersbackpack-server.toml"
+hash = "dbdeb94e207aa09f2e94cdf3e14262cfd1310e717e0964c5f6e7d18f8b3d8194"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
@@ -92,7 +96,7 @@ hash = "98a61c7b5be0f7a864532ee81c116e636835e37de6b7e641b01188c9c98a599e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "ed497809bcd8531da8a68695b99b59ce7f7f814af27974fe464315991004414c"
+hash = "f1bc4b681f7bc6cc50ea67acd6e507acffcc2152537103a791633cdd76564aee"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
@@ -137,10 +141,6 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 [[files]]
 file = "kubejs/startup_scripts/src/project_red.js"
 hash = "927de8aad322785f9c6baab878402c4e270b40e351e752eedd6a675f83b7cb32"
-
-[[files]]
-file = "kubejs/startup_scripts/src/sophisticated-backpacs.js"
-hash = "9105e737aa96227deee1fec993a93586c0ee9fa52f63f23bbd841fac5ca760a2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -245,11 +245,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
@@ -538,13 +533,8 @@ hash = "8a325cc74f2f5cada70b7ffdce9efdc41fe9e92f08db882b6819bfcd8a241997"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8015cafe953cf2cc37c4ab33bd74a79e4c880634a23a3e80da0a846dd154c52e"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "7c5e806df2496dcb2969b22715a71b8a41f66ab3c1772af3e5db40b18ec82fc4"
+file = "mods/travelersbackpack.pw.toml"
+hash = "405b829fb019416203cc26adc32ad5fbe4c6af76661377b2b676050801cca18a"
 metafile = true
 
 [[files]]
