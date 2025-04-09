@@ -71,6 +71,10 @@ file = "defaultconfigs/gravestone-server.toml"
 hash = "5d83452900449b90017944f0516220ce3941949adcd82fa09b2d54dc39d0048a"
 
 [[files]]
+file = "defaultconfigs/travelersbackpack-server.toml"
+hash = "74ed8214a62d7f363cf6dc28674e2f28624525198632dec6c65b111e09d6b7dc"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
@@ -88,7 +92,7 @@ hash = "98a61c7b5be0f7a864532ee81c116e636835e37de6b7e641b01188c9c98a599e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "f553bb80ed8b6efefeb5523a28c96e62a627538fc23153e06a162494e3415850"
+hash = "f1bc4b681f7bc6cc50ea67acd6e507acffcc2152537103a791633cdd76564aee"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
@@ -223,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
@@ -526,13 +525,8 @@ hash = "8a325cc74f2f5cada70b7ffdce9efdc41fe9e92f08db882b6819bfcd8a241997"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8015cafe953cf2cc37c4ab33bd74a79e4c880634a23a3e80da0a846dd154c52e"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "7c5e806df2496dcb2969b22715a71b8a41f66ab3c1772af3e5db40b18ec82fc4"
+file = "mods/travelersbackpack.pw.toml"
+hash = "405b829fb019416203cc26adc32ad5fbe4c6af76661377b2b676050801cca18a"
 metafile = true
 
 [[files]]
