@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "6c6595106e565d0c2dcd667915cfb494968fb6868fdc9d4eb036948bf247ba6d"
+hash = "397e6ac2584188da0458a9468fa31f316ff48d849793b85f33dd7479c570d8c8"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -96,7 +96,7 @@ hash = "98a61c7b5be0f7a864532ee81c116e636835e37de6b7e641b01188c9c98a599e"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "f1bc4b681f7bc6cc50ea67acd6e507acffcc2152537103a791633cdd76564aee"
+hash = "3aaff6f989caa4fd7899d2327dfe1351bdbeb05a4870fa4117ea7ca8324c08c1"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
