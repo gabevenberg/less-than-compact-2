@@ -75,6 +75,26 @@ file = "defaultconfigs/gravestone-server.toml"
 hash = "5d83452900449b90017944f0516220ce3941949adcd82fa09b2d54dc39d0048a"
 
 [[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "8bc2e27e30199b95b14e1f24889ec86ea08f6ebe40668663d1b3b7821f4bee27"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "8bc2e27e30199b95b14e1f24889ec86ea08f6ebe40668663d1b3b7821f4bee27"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "8bc2e27e30199b95b14e1f24889ec86ea08f6ebe40668663d1b3b7821f4bee27"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "7da24f0a2465e0775e7a40119700f35e27ea6e8c75a86d1e7059d9f9091ad79e"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "9aa3b1f09683d6842cc92d27082e425e98863a1e402fd9d1ca6d35b0393b5a55"
+
+[[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "dbdeb94e207aa09f2e94cdf3e14262cfd1310e717e0964c5f6e7d18f8b3d8194"
 
