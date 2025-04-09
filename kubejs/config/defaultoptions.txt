@@ -1,3 +1,6 @@
+version:3465
+realmsNotifications:false
+toggleSprint:true
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.tab
 key_key.fbp.toggle_mod:key.keyboard.unknown
@@ -10,6 +13,3 @@ key_key.fbp.reload_config:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.grave.accent
 key_gui.xaero_new_waypoint:key.keyboard.keypad.equal
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
-realmsNotifications:false
-toggleSprint:true
-
