@@ -6,5 +6,11 @@
 *.mrpack
 *.zip
 
+# git hooks
+/.githooks
+
 # exclude autocomple probejs files.
 .probe
+
+# exclude deployment scripts.
+/justfile
