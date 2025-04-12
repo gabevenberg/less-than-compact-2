@@ -3,3 +3,4 @@
 set -euxo pipefail
 
 packwiz refresh
+git add index.toml pack.toml
