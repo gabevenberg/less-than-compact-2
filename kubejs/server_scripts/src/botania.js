@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
             'pwp',
         ],
         {
-            d: 'botania:dragonstone',
+            d: 'quark:diamond_heart',
             w: 'botania:rune_water',
             s: 'botania:rune_summer',
             p: 'minecraft:prismarine_crystals',

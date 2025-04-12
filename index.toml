@@ -132,11 +132,11 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/apotheosis.js"
-hash = "230baa5dee76ba29576ab072dc22389e2b11943d577d84da4df4fab57dd7a25b"
+hash = "a3863626ab48e6fd3d9371019be6c3519bc5a5000fedb0ba519111c007e4456e"
 
 [[files]]
 file = "kubejs/server_scripts/src/botania.js"
-hash = "c15da89daf2a1a147ebfe53453343881d81cc1b57519bd8acd0f55181a10c829"
+hash = "2a69acfac3cf4120974b26bb3357ba16bc53dde4c8ac4cc66a808b7b65d68c5e"
 
 [[files]]
 file = "kubejs/server_scripts/src/create_renewability.js"
