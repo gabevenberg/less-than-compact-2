@@ -1,6 +1,6 @@
 name = "Gravestone x Curios API Compat"
 filename = "gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar"
-side = "server"
+side = "both" #serverside, but needed for singleplayer
 
 [download]
 url = "https://cdn.modrinth.com/data/NaiL8bPN/versions/fzueSdVq/gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar"

@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "8b2166e4981dbf5c11bce86917f68bf500ce5132ed8425936846e99e4d11c373"
+hash = "a76009cd2139f87c72cdd0f50e8212eda4d7dced59f287b959088a107c0d0e85"
 metafile = true
 
 [[files]]
