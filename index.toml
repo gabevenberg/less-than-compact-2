@@ -17,10 +17,6 @@ file = "config/easymagic-server.toml"
 hash = "ee3004a96095b6ad2f49c263efdf8119d631a57f136e6f2449b2f24a4b4da750"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "8f3a6d230749f11887a3f95c79988d541def73c15e1eb95e750ec0e062750944"
-
-[[files]]
 file = "config/jade/plugins.json"
 hash = "c6981bdd92b5db10ab2f2891d76e7071b06f54c64a9ab1af97849147cb6b9de8"
 
@@ -341,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "3f4594bfb481b9a2c6ed86e7449039477658be2301ae06b463c02fc4930947d2"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
