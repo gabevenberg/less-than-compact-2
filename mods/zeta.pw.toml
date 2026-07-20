@@ -1,13 +1,13 @@
 name = "Zeta"
-filename = "Zeta-1.0-29.jar"
+filename = "Zeta-1.0-31.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MVARlG2f/versions/KSjIOpVa/Zeta-1.0-29.jar"
+url = "https://cdn.modrinth.com/data/MVARlG2f/versions/mSER3jBI/Zeta-1.0-31.jar"
 hash-format = "sha512"
-hash = "19f8a4f15729438943c6b69f740eae355e2d31e679c73ed93746f8f6dac264b57ea0a493b04a1bcce249644bd916094aa7dd5fb109c48a0666b2725e3a06742c"
+hash = "0b14233864d8fdad148c33971731d8e9638d2cdceab8977162448598d78b74beb838913d445e065f6e0bf0d5cf36b8b843fc576ce47ab9899b3f2d7c713eefef"
 
 [update]
 [update.modrinth]
 mod-id = "MVARlG2f"
-version = "KSjIOpVa"
+version = "mSER3jBI"

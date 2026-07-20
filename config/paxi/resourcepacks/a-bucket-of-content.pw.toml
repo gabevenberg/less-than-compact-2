@@ -3,11 +3,11 @@ filename = "C418 Background Music Only.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xdmWAZlT/versions/HIrsX9GO/C418%20Background%20Music%20Only.zip"
+url = "https://cdn.modrinth.com/data/xdmWAZlT/versions/Lft3F2pY/C418%20Background%20Music%20Only.zip"
 hash-format = "sha512"
-hash = "13479ef5529f25d422f3d87acbcdf6bc9b371099aa19f9ec6ed3210e9003a4d64fbf25464017c1275ebac0675f0b2ac1563d49a127cd50431f3034f0fb5f9183"
+hash = "de2d53e33abef542719d21fddd3e2bab11da17c500e345497d23f2a756045d09b8f4a30ebb198584873a35c44e6cbfaa827b86aeda2336c63da80d61b4035154"
 
 [update]
 [update.modrinth]
 mod-id = "xdmWAZlT"
-version = "HIrsX9GO"
+version = "Lft3F2pY"

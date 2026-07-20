@@ -4,7 +4,7 @@ default:
 cexport:
     packwiz curseforge export
 
-mexprort:
+mexport:
     packwiz mr export
 
 deploy:

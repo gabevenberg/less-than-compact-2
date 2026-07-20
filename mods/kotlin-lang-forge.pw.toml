@@ -1,0 +1,13 @@
+name = "KotlinLangForge"
+filename = "KotlinLangForge-kff-compat-2.12.2-k2.4.10-2.0+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vrSzlao/versions/SqxxiHn8/KotlinLangForge-kff-compat-2.12.2-k2.4.10-2.0%2Bforge.jar"
+hash-format = "sha512"
+hash = "dfa77aa31fc6ce049060f9eeeb11fa1efac10b9fa3c44870a8495bdb973153c5983f6f7d34a15a52592a100e847eda8f95c1f9b037a65bd3b505c806be6770d8"
+
+[update]
+[update.modrinth]
+mod-id = "1vrSzlao"
+version = "SqxxiHn8"

@@ -3,11 +3,11 @@ filename = "ProjectRed-1.20.1-4.21.0-integration.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3JruZJb0/versions/OkyHTzBD/ProjectRed-1.20.1-4.21.0-integration.jar"
+url = "https://cdn.modrinth.com/data/3JruZJb0/versions/FY2tuztw/ProjectRed-1.20.1-4.21.0-integration.jar"
 hash-format = "sha512"
-hash = "074324e235a90030bd1eb79192427419db7c64dd0d7044ba5b5d437e5990be421dd3ec194bc846c07ffe7416ce25748cdcf59ba6203656ce8f26ec346d37fb01"
+hash = "e74efbf21a288ff00565ad2ba1beb3c5df86a18b34baf4f23ce19d5e3ff472efa5347b9a9b78f3394a29f42a1dae828fe6415eda43e67da5a2e81cf1a37d146a"
 
 [update]
 [update.modrinth]
 mod-id = "3JruZJb0"
-version = "OkyHTzBD"
+version = "FY2tuztw"

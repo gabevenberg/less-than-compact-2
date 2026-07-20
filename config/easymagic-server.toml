@@ -13,7 +13,7 @@ lenient_bookshelves = true
 reroll_catalyst_cost = 1
 #Choose how many enchantments are shown on the enchanting tooltip, if any at all.
 #Allowed Values: NONE, SINGLE, ALL
-enchantment_hint = "ALL"
+enchantment_hint = "SINGLE"
 #Do chiseled bookshelves provide enchanting power to an enchanting table, one for every three contained books.
 #NONE: Vanilla behavior, no power is provided.
 #FACING: The bookshelf must face the enchanting table to provide any power.

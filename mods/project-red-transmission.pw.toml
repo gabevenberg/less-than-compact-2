@@ -3,11 +3,11 @@ filename = "ProjectRed-1.20.1-4.21.0-transmission.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/efp4eqYW/ProjectRed-1.20.1-4.21.0-transmission.jar"
+url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/Gxifp83B/ProjectRed-1.20.1-4.21.0-transmission.jar"
 hash-format = "sha512"
-hash = "9f85505f0358115e89912b2f4ea88121f470d82ad88a4c758b307fd127f0b504d4c3bfce32e8afce64763dafcd69420e59ece9d74d382fb252c128c379dc2ca1"
+hash = "5540697dab54da3053a75cdbb645bd2045866c434b3c5a3332e0300e16b854fc2a1006904cc7684003e094f15bbdaae9d5fbe6bb8ec695d33293d5df083b871a"
 
 [update]
 [update.modrinth]
 mod-id = "dXmH4rEw"
-version = "efp4eqYW"
+version = "Gxifp83B"

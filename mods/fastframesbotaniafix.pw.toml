@@ -1,0 +1,13 @@
+name = "Fast Item Frames Botania Fix"
+filename = "fastbotaniafix-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/joh0KTwR/versions/w6R7Kyod/fastbotaniafix-1.0.2.jar"
+hash-format = "sha512"
+hash = "1b555894e78795ac2d6d91952c17ed57ea9b9fc3a6920dff30de0c2684a74bf62afcb1870181260375153996fe256c2459781bb9dfcb52a2fbca2afafb0b9062"
+
+[update]
+[update.modrinth]
+mod-id = "joh0KTwR"
+version = "w6R7Kyod"
