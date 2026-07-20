@@ -14,3 +14,8 @@
 
 # exclude deployment scripts.
 /justfile
+
+#exclude nix files.
+flake.nix
+flake.lock
+.direnv

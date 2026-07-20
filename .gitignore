@@ -6,3 +6,5 @@
 
 # exclude autocomple probejs files.
 .probe
+
+.direnv

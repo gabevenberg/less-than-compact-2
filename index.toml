@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "config/ProjectRed.cfg"
 hash = "e6c85f15f4de4d16ae45a6dd660a4e6d6647420de6622fd0dcd940964c8bb8af"
 
